@@ -34,7 +34,7 @@ body{
 
 #school{
   color: #D00F0F;
-  font-size: 20px;
+  font-size: 30px;
   margin-left: 10px;
 
 }
@@ -155,11 +155,12 @@ margin-top: -22px;
 
 
 #undergrad-pic{
-  margin-left: 470px;
+  margin-left: 330px;
 }
 
 #admin-heading{
   margin-left: 40px;
+  font-size: 30px;
 }
 #admissions-text{
   margin-left: 40px;
@@ -218,4 +219,9 @@ font-size: 40px;
   list-style: inside;
   text-align: center;
   font-size: 21px;
+}
+
+#current-res{
+  font-size: 35px;
+  margin-left: 20px;
 }
